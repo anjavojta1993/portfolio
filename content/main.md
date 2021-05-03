@@ -28,9 +28,7 @@ about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-    mi, sit amet consequat leo. Integer non dolor non elit sodales consequat.
-    Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.
+    I am a passionate web developer.
 features:
   - icon: monitor-screenshot
     text: >
